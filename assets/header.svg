@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150">
+  <style>
+    .name{font:700 52px 'Segoe UI','Nunito',Helvetica,Arial,sans-serif;fill:#6FA8A4}
+    .sub{font:600 21px 'Segoe UI','Nunito',Helvetica,Arial,sans-serif;fill:#8B949E}
+    .caret{fill:#8B949E;animation:blink 1s step-end infinite}
+    #clip rect{animation:type 9s steps(48,end) infinite}
+    @keyframes type{0%{width:0}45%{width:560px}80%{width:560px}100%{width:0}}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <defs><clipPath id="clip"><rect x="100" y="80" height="40" width="0"/></clipPath></defs>
+  <text class="name" x="380" y="66" text-anchor="middle">Yusuf Tarlak</text>
+  <g clip-path="url(#clip)">
+    <text class="sub" x="380" y="108" text-anchor="middle">Bilgisayar Mühendisliği · PIAV Studio · C, Python &amp; Web</text>
+  </g>
+</svg>

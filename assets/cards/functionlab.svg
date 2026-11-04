@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F1FA"/><stop offset="1" stop-color="#E4DDF2"/></linearGradient></defs>
+<rect width="640" height="360" rx="22" fill="url(#g)"/>
+<g transform="translate(40,30)" stroke="#B9AED8" stroke-width="2"><line x1="0" y1="110" x2="560" y2="110"/><line x1="280" y1="0" x2="280" y2="220"/></g>
+<path transform="translate(40,30)" fill="none" stroke="#7D6CB2" stroke-width="5" d="M0 110 C 35 20, 105 20, 140 110 S 245 200, 280 110 S 385 20, 420 110 S 525 200, 560 110"/>
+<circle cx="110" cy="62" r="8" fill="#E08A6E"/><circle cx="390" cy="198" r="8" fill="#E08A6E"/>
+<g transform="translate(470,250)" stroke="#7D6CB2" stroke-width="4" stroke-linecap="round"><line x1="0" y1="20" x2="0" y2="40"/><line x1="14" y1="8" x2="14" y2="52"/><line x1="28" y1="0" x2="28" y2="60"/><line x1="42" y1="12" x2="42" y2="48"/><line x1="56" y1="22" x2="56" y2="38"/><line x1="70" y1="6" x2="70" y2="54"/><line x1="84" y1="18" x2="84" y2="42"/></g>
+<text x="40" y="300" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#3B3260">FunctionLab</text>
+<text x="40" y="330" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#7D6CB2">Grafik çizen hesap makinesi · Python</text>
+</svg>

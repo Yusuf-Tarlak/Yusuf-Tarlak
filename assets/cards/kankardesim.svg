@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBF1EF"/><stop offset="1" stop-color="#F3DCD8"/></linearGradient></defs>
+<rect width="640" height="360" rx="22" fill="url(#g)"/>
+<g transform="translate(250,30)"><path d="M70 10C70 10 10 90 10 135a60 60 0 0 0 120 0C130 90 70 10 70 10z" fill="#C25555"/>
+<path d="M48 120a24 24 0 0 0 22 40" stroke="#F3DCD8" stroke-width="8" fill="none" stroke-linecap="round"/></g>
+<g transform="translate(420,70)" fill="#E3A4A0"><path d="M50 90L10 50a24 24 0 0 1 40-30a24 24 0 0 1 40 30z"/></g>
+<g transform="translate(70,80)" fill="#E3A4A0"><path d="M35 63L7 35a17 17 0 0 1 28-21a17 17 0 0 1 28 21z"/></g>
+<text x="40" y="300" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#5A2A2A">Kan Kardeşim</text>
+<text x="40" y="330" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#A65A5A">Kan bağışı dayanışma platformu</text>
+</svg>
